@@ -1,6 +1,6 @@
 # Ralph
 
-![Ralph](ralph.webp)
+![Ralph](jack.png)
 
 Ralph is an autonomous AI agent loop that runs AI coding tools ([Amp](https://ampcode.com) or [Claude Code](https://docs.anthropic.com/en/docs/claude-code)) repeatedly until all PRD items are complete. Each iteration is a fresh instance with clean context. Memory persists via git history, `progress.txt`, and `prd.json`.
 
